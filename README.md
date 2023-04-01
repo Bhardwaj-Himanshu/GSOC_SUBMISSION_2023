@@ -1,6 +1,6 @@
 # GSOC_SUBMISSIONS_2023
 
-[https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.png]
+![](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-Vertical.png)
 
 Hi! I'm Himanshu Bhardwaj in **Space**. These are my project submission files for the Google Summer of Code 2023, and not very obviously but these were fun!
 
