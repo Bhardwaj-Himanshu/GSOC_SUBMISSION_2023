@@ -11,8 +11,8 @@
 
 **Project Description**
 =====================
-- Name: [Poject#7: Dockerisation of Visual Circuit](https://jderobot.github.io/activities/gsoc/2023#application-instructions-for-gsoc-2023)
-- Mentor: Toshan Luktuke,Suhas Gopal
+- Name: [Dockerize all IHR components](https://github.com/InternetHealthReport/gsoc/blob/main/ideas.md#dockerize-all-ihr-components)
+- Mentor: @romain, romain@iij.ad.jp
 - About it:
   - **What is it?**: The Internet Health Report monitors the conditions of networks that compose the Internet. The effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution.
   - **Goal**: The goal of this project is to create docker images for all these components so that each component can be easily moved on the servers.
@@ -62,7 +62,7 @@ Overall, adding a Docker image to a codebase can simplify application deployment
 - Push the Docker image to a registry
 - Deploy the Docker image
 
-More on these in detail below in [**Detailed Steps**](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/Internet%20Health%20Report/PROPOSAL.MD#detailed-steps).
+More on these in detail below in **Detailed Steps**.
 
 
 **Timeline**
