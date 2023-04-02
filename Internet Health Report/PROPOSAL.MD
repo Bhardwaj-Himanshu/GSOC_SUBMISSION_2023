@@ -62,7 +62,7 @@ Overall, adding a Docker image to a codebase can simplify application deployment
 - Push the Docker image to a registry
 - Deploy the Docker image
 
-More on these in detail below in **Detailed Steps**.
+More on these in detail below in [**Detailed Steps**](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/Internet%20Health%20Report/PROPOSAL.MD#detailed-steps).
 
 
 **Timeline**
